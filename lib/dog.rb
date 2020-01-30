@@ -12,3 +12,5 @@ end
 dog1 = Dog.new();
 
 puts dog1.name
+
+dog1.name = 

@@ -11,6 +11,6 @@ end
 
 class DOg 
   def bark
-    Woof!
+    puts Woof!
   end
 end

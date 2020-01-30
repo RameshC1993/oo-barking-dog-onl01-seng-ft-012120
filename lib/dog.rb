@@ -9,3 +9,8 @@ class Dog
   end
 end
 
+class DOg 
+  def bark
+    Woof!
+  end
+end
